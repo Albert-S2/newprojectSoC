@@ -1,2 +1,0 @@
-# newprojectSoC
-SoC project (AirBnB)
